@@ -5,8 +5,8 @@ sections:
     template: hero_section
     title: Economics & Finance
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      A collection of readings and data on the past and present of economics and
+      finance.
     actions:
       - type: action
         template: action
