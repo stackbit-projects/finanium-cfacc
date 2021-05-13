@@ -43,9 +43,25 @@ seo:
       relativeUrl: true
 template: post
 ---
+Arguably the greatest economist of his time, Ricardo was born in
+London near the current Liverpool Street Station in 1772, the third
+of six sons in a family that would number fifteen grown children.
+His father was a Sephardic Jew from Portugal who had settled in
+England after a spell in Holland. Ricardo followed his father into the
+City where he made a fortune (worth over £100 million in today’s
+money), principally by speculating on government debt. After
+betting on the right outcome in the Battle of Waterloo (allegedly on
+false information), he retired an extremely wealthy man to his
+Gloucestershire estate where he pursued an interest in political
+economy that had originally been prompted by his reading The
+Wealth of Nations at the turn of the century.
+David Ricardo’s writings on political economy were slightly less
+ambitious than Smith’s (in that he didn’t aspire to the full science of
+man), but his ideas have been just as influential. Ricardo advanced
+key elements of Smith’s work by making at least two stunning
+contributions to economic thought. First, he put forward a
+compelling and original case for free trade through the theory of
+comparative advantage, which would become a central tenet of
+economic liberalism. And second, he formalised the labour theory of
+value, which would become a cornerstone of Marxism
 
-Donec ultrices tincidunt arcu non sodales neque. Et netus et malesuada fames ac turpis egestas sed tempus. Cras pulvinar mattis nunc sed. Turpis cursus in hac habitasse platea dictumst quisque sagittis. Sollicitudin nibh sit amet commodo nulla facilisi nullam. Posuere ac ut consequat semper viverra nam. Ac tortor vitae purus faucibus ornare suspendisse sed nisi lacus. Egestas sed sed risus pretium quam vulputate dignissim suspendisse in. Tempor orci eu lobortis elementum nibh. Senectus et netus et malesuada fames ac turpis egestas integer. Id cursus metus aliquam eleifend mi in nulla posuere sollicitudin. Sed nisi lacus sed viverra tellus. Non curabitur gravida arcu ac tortor dignissim convallis aenean.
-
-Sem et tortor consequat id porta. Diam sit amet nisl suscipit adipiscing bibendum est ultricies. Amet nulla facilisi morbi tempus. Blandit massa enim nec dui nunc mattis. Non enim praesent elementum facilisis leo vel fringilla est. Eleifend quam adipiscing vitae proin sagittis nisl rhoncus. Mauris pellentesque pulvinar pellentesque habitant morbi tristique senectus et netus. Eget nunc lobortis mattis aliquam faucibus purus. Volutpat ac tincidunt vitae semper quis. Cursus eget nunc scelerisque viverra mauris. Purus semper eget duis at tellus at urna. Mauris commodo quis imperdiet massa tincidunt nunc pulvinar sapien. Sit amet consectetur adipiscing elit pellentesque habitant morbi tristique senectus. Nunc non blandit massa enim nec. Ut porttitor leo a diam sollicitudin.
-
-Tincidunt tortor aliquam nulla facilisi cras. Id semper risus in hendrerit. Magna fermentum iaculis eu non. At consectetur lorem donec massa sapien faucibus et. Est placerat in egestas erat imperdiet sed euismod nisi porta. Lacus vel facilisis volutpat est velit egestas dui. Sapien pellentesque habitant morbi tristique senectus et. Ut tellus elementum sagittis vitae et. Et malesuada fames ac turpis. Volutpat commodo sed egestas egestas. Praesent tristique magna sit amet purus gravida quis. Turpis egestas pretium aenean pharetra.
