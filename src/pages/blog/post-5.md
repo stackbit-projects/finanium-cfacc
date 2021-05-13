@@ -1,5 +1,5 @@
 ---
-title: The compar
+title: The comparative advantage of Ricardo
 date: '2020-06-02'
 author: src/data/team/gordon-norman.yaml
 categories:
