@@ -1,5 +1,5 @@
 ---
-title: Tutorials
+title: Economics
 sections:
   - type: hero_section
     template: hero_section
